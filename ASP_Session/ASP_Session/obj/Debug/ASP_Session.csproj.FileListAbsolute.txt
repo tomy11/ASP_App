@@ -1,0 +1,6 @@
+E:\_ASP\ASP_Session\ASP_Session\bin\ASP_Session.dll.config
+E:\_ASP\ASP_Session\ASP_Session\bin\ASP_Session.dll
+E:\_ASP\ASP_Session\ASP_Session\bin\ASP_Session.pdb
+E:\_ASP\ASP_Session\ASP_Session\obj\Debug\ASP_Session.csprojResolveAssemblyReference.cache
+E:\_ASP\ASP_Session\ASP_Session\obj\Debug\ASP_Session.dll
+E:\_ASP\ASP_Session\ASP_Session\obj\Debug\ASP_Session.pdb
